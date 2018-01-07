@@ -46,7 +46,8 @@ unsigned int numlockmask = 0;
 // unsigned int grabmask1 = ControlMask|Mod1Mask;
 //unsigned int grabmask1 = Mod4Mask;
 
-unsigned int grabmask1 = ControlMask|Mod1Mask;
+//unsigned int grabmask1 = ControlMask|Mod4Mask;  <- working
+unsigned int grabmask1 = Mod4Mask;
 // unsigned int grabmask1 = Mod2Mask;
 
 unsigned int grabmask2 = Mod1Mask;
