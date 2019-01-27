@@ -2,6 +2,10 @@
 evilwm linux (fork, mouse move/resize change)
 
 
+## Run with ./evilwm -fn fixed
+
+
+
 raspberry pi 3: 
 
 ps aux | grep evilwm
