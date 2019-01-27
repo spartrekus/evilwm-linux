@@ -28,8 +28,8 @@ OPT_CPPFLAGS += -DINFOBANNER
 # OPT_LDLIBS   += -lXrandr
 
 # Uncomment to support shaped windows.
-OPT_CPPFLAGS += -DSHAPE
-OPT_LDLIBS   += -lXext
+# OPT_CPPFLAGS += -DSHAPE
+# OPT_LDLIBS   += -lXext
 
 # Uncomment to enable solid window drags.  This can be slow on old systems.
 # OPT_CPPFLAGS += -DSOLIDDRAG
